@@ -6,7 +6,7 @@ Como desarrollador Full Stack, estoy capacitándome para ser un experto versáti
 
 Mi pasión por la tecnología y mi enfoque en el aprendizaje continuo me permiten adaptarme rápidamente a nuevas tecnologías y desafíos, asegurando mi capacidad para contribuir de manera efectiva en equipos de desarrollo.
 
-[Cloudinary](	https://img.shields.io/badge/Alibaba_Cloud-FF6A00?style=for-the-badge&logo=alibabacloud&logoColor=white)
+[![Cloudinary](https://img.shields.io/badge/Cloudinary-4285F4?style=for-the-badge&logo=cloudinary&logoColor=white)]
 ## 💻 Tecnologías
 
 ### Lenguajes de Programación
