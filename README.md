@@ -3,9 +3,11 @@
 ![Perfil](./image/jose_chapid.jpg)
 
 
-Como desarrollador Full Stack, estoy capacitándome para ser un experto versátil en el desarrollo de aplicaciones web. A través de mi formación, adquiero habilidades tanto en el diseño y la implementación de la interfaz de usuario como en el desarrollo del lado del servidor y la gestión de bases de datos. Mi objetivo es ser capaz de crear aplicaciones web completas desde cero, participando en todas las etapas del proceso de desarrollo de software. 
+Soy un apasionado desarrollador Full Stack en la etapa final de mi bootcamp en Soy Henry, donde he adquirido habilidades sólidas en desarrollo web. Desde el diseño creativo de interfaces hasta la implementación eficiente del lado del servidor y la gestión de bases de datos, he estado inmerso en un entorno de aprendizaje intensivo y colaborativo.
 
-Mi pasión por la tecnología y mi enfoque en el aprendizaje continuo me permiten adaptarme rápidamente a nuevas tecnologías y desafíos, asegurando mi capacidad para contribuir de manera efectiva en equipos de desarrollo.
+Además, complemento mi formación con cursos avanzados en la plataforma de Platzi, donde me especializo en tecnologías emergentes y metodologías ágiles. Mi compromiso con el aprendizaje continuo me impulsa a explorar nuevas tecnologías y adoptar las mejores prácticas en el desarrollo de software.
+
+Estoy emocionado por aplicar mis habilidades en proyectos desafiantes y dinámicos. Si buscas un colaborador entusiasta y dedicado para tu equipo de desarrollo, ¡contáctame! Estoy listo para construir soluciones innovadoras y de alto impacto.
 
 
 ## 💻 Tecnologías
