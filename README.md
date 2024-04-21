@@ -1,5 +1,7 @@
 # ¡Hola, soy José Chapid! 👋
 
+![Perfil](./josechapid.jpg)
+
 <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQMA5w20Eo3PqAqImQjnrAJSaTq1juKhY1UHadKSDCVWQ&s" alt="tigre">
 
 Como desarrollador Full Stack, estoy capacitándome para ser un experto versátil en el desarrollo de aplicaciones web. A través de mi formación, adquiero habilidades tanto en el diseño y la implementación de la interfaz de usuario como en el desarrollo del lado del servidor y la gestión de bases de datos. Mi objetivo es ser capaz de crear aplicaciones web completas desde cero, participando en todas las etapas del proceso de desarrollo de software. 
