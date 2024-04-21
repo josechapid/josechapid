@@ -24,6 +24,8 @@ Mi pasión por la tecnología y mi enfoque en el aprendizaje continuo me permite
 ### Herramientas de Diseño y Colaboración
 - ![Adobe Illustrator](https://img.shields.io/badge/Adobe_Illustrator-FF9A00?style=for-the-badge&logo=adobeillustrator&logoColor=white) ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white)
 
+## Proyectos 
+- Ecommerce de Comidas rápidas (“DeliVeloz”) lo puedes visitar aqui [Deliveloz](https://deliveloz.netlify.app/)
 
 ## 🌐 Redes Sociales
 - [LinkedIn](https://www.linkedin.com/in/jose-luis-chapid-3600bb296/)
