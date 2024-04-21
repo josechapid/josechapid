@@ -1,6 +1,6 @@
 # ¡Hola, soy José Chapid! 👋
 
-![Perfil](./josechapid.jpg)
+![Perfil](./image/jose_chapid.jpg)
 
 <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQMA5w20Eo3PqAqImQjnrAJSaTq1juKhY1UHadKSDCVWQ&s" alt="tigre">
 
