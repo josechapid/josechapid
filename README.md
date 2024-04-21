@@ -39,11 +39,8 @@ Mi pasión por la tecnología y mi enfoque en el aprendizaje continuo me permite
 - [GitHub](https://github.com/josechapid)
 - [Instagram](https://www.instagram.com/joluchapid/)
 
-## Datos de contacto 
+## 📫 Cómo Contactarme
 - +57 3187229494
 - luischapid03@gmail.com
-
-## 📫 Cómo Contactarme
-Si deseas colaborar o tienes oportunidades laborales, no dudes en contactarme a través de [LinkedIn](https://www.linkedin.com/in/jose-luis-chapid-3600bb296/).
 
 
