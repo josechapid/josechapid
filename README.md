@@ -1,16 +1,40 @@
-### Hi there 👋
+# Hi, I'm [Tu Nombre] 👋
 
-<!--
-**josechapid/josechapid** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a passionate web developer with a strong foundation in TypeScript, Node.js, and React. I love building scalable and responsive applications using modern technologies.
 
-Here are some ideas to get you started:
+## 💻 Tech Stack
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Programming Languages
+- TypeScript
+- JavaScript
+- Python
+- HTML5
+- CSS3
+- Markdown
+
+### Development Frameworks & Tools
+- React
+- Next.js
+- React Native
+- Express.js
+- PostgreSQL
+- MongoDB
+- Firebase
+- AWS
+- Docker
+- ESLint
+- Webpack
+
+### Design & Collaboration Tools
+- Adobe Illustrator
+- Figma
+- Canva
+
+## 🌐 Socials
+- [LinkedIn](https://www.linkedin.com/in/tunombre)
+- [GitHub](https://github.com/tunombre)
+
+## 📫 How to Reach Me
+Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/tunombre) for collaboration or job opportunities.
+
+Let's build something amazing together!
