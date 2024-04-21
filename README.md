@@ -1,40 +1,32 @@
-# Hi, I'm [Tu Nombre] 👋
+# ¡Hola, soy José Luis Chapid! 👋
 
-I'm a passionate web developer with a strong foundation in TypeScript, Node.js, and React. I love building scalable and responsive applications using modern technologies.
+Soy un apasionado desarrollador web con una sólida base en TypeScript, Node.js y React. Me encanta construir aplicaciones escalables y receptivas utilizando tecnologías modernas.
 
-## 💻 Tech Stack
+## 💻 Tecnologías
 
-### Programming Languages
-- TypeScript
+### Lenguajes de Programación
 - JavaScript
-- Python
 - HTML5
 - CSS3
-- Markdown
 
-### Development Frameworks & Tools
+### Frameworks y Herramientas de Desarrollo
 - React
-- Next.js
-- React Native
 - Express.js
 - PostgreSQL
-- MongoDB
 - Firebase
-- AWS
-- Docker
-- ESLint
 - Webpack
 
-### Design & Collaboration Tools
+### Herramientas de Diseño y Colaboración
 - Adobe Illustrator
 - Figma
 - Canva
 
-## 🌐 Socials
-- [LinkedIn](https://www.linkedin.com/in/tunombre)
-- [GitHub](https://github.com/tunombre)
+## 🌐 Redes Sociales
+- [LinkedIn](https://www.linkedin.com/in/jose-luis-chapid-3600bb296/)
+- [GitHub](https://github.com/josechapid)
+- [Instagram](https://www.instagram.com/joluchapid/)
 
-## 📫 How to Reach Me
-Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/tunombre) for collaboration or job opportunities.
+## 📫 Cómo Contactarme
+Si deseas colaborar o tienes oportunidades laborales, no dudes en contactarme a través de [LinkedIn](https://www.linkedin.com/in/jose-luis-chapid-3600bb296/).
 
-Let's build something amazing together!
+¡Vamos a construir algo increíble juntos!
