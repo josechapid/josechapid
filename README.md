@@ -2,15 +2,26 @@
 
 ![Perfil](./image/jose_chapid.jpg)
 
-## 🧑🏻‍💻 ¿Quíen soy?
-Soy un apasionado desarrollador Full Stack en la etapa final de mi bootcamp en Soy Henry, donde he adquirido habilidades sólidas en desarrollo web. Desde el diseño creativo de interfaces hasta la implementación eficiente del lado del servidor y la gestión de bases de datos, he estado inmerso en un entorno de aprendizaje intensivo y colaborativo.
+## 🧑🏻‍💻 ¿Quién soy?
+Soy un joven desarrollador Full Stack en la etapa final de mi bootcamp en Soy Henry, donde he adquirido habilidades sólidas en desarrollo web que van desde el diseño creativo de interfaces hasta la implementación eficiente del lado del servidor y la gestión de bases de datos.
 
-Además, complemento mi formación con cursos avanzados en la plataforma de Platzi, donde me especializo en tecnologías emergentes y metodologías ágiles. Mi compromiso con el aprendizaje continuo me impulsa a explorar nuevas tecnologías y adoptar las mejores prácticas en el desarrollo de software.
+Esta etapa de formación ha generado un entorno de aprendizaje intensivo y colaborativo, con el cual estoy comprometido y entusiasmado con el aprendizaje continuo de nuevas herramientas para mejorar cada día mis habilidades profesionales. 
+
+## 🥏 ¿Qué hago? 
+Actualmente finalizando mi formación académica estoy en busca de una oportunidad laboral que permita fortalecer mis habilidades adquiridas y con ello aportar de manera significativa a aquellos proyectos encaminados a la excelencia
+
+Comprometido con mi formación  estoy realizando cursos avanzados en la plataforma de Platzi, donde me especializo en tecnologías emergentes y metodologías ágiles. Mi compromiso con el aprendizaje continuo me impulsa a explorar y adoptar las mejores prácticas en el desarrollo de software.
 
 Estoy emocionado por aplicar mis habilidades en proyectos desafiantes y dinámicos. Si buscas un colaborador entusiasta y dedicado para tu equipo de desarrollo, ¡contáctame! Estoy listo para construir soluciones innovadoras y de alto impacto.
 
+## 👨🏻 ¿Background?
+Pero por supuesto, todos tenemos una historia ¿no?, he realizado un pregrado en Psicología, con lo cual me he desempeñado en proyectos comunitarios que me han permitido fortalecer habilidades como el trabajo en equipo, el liderazgo, manejo de grupos, la empatía, la comunicación, resolución de problemas entre otras habilidades, las mismas me permiten ser un desarrollador con un conjunto de herramientas para aportar no solo a nivel técnico, sino también a nivel de ambiente laboral. 
 
-## 💻 Tecnologías
+## 🤖 ¿Hobbies?
+
+Claro que sí, finalmente comparto contigo mi pasión por el fútbol ⚽ , el tocar guitarra 🎸, hacer running 🏃🏻‍♂️, viajar a lugares nuevos 🏕️ y participar de voluntariados comunitarios 🙌🏻, espacios que me permiten cuidar se mi salud mental y física, algo muy importante a la hora de desempeñar el gran reto de programar e impactar en el mundo.
+
+## 💻 ¿ Qué tecnologías utilizo?
 
 ### Lenguajes de Programación
 - ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
