@@ -3,7 +3,7 @@
 ![Perfil](./image/jose_chapid.jpg)
 
 ## 🧑🏻‍💻 ¿Quién soy?
-Soy un joven desarrollador Full Stack en la etapa final de mi bootcamp en Soy Henry, donde he adquirido habilidades sólidas en desarrollo web que van desde el diseño creativo de interfaces hasta la implementación eficiente del lado del servidor y la gestión de bases de datos.
+Soy un joven desarrollador Full Stack egresado del bootcamp Soy Henry, donde he adquirido habilidades sólidas en desarrollo web que van desde el diseño creativo de interfaces hasta la implementación eficiente del lado del servidor y la gestión de bases de datos.
 
 Esta etapa de formación ha generado un entorno de aprendizaje intensivo y colaborativo, con el cual estoy comprometido y entusiasmado con el aprendizaje continuo de nuevas herramientas para mejorar cada día mis habilidades profesionales. 
 
