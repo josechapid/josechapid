@@ -3,9 +3,7 @@
 ![Perfil](./image/jose_chapid.jpg)
 
 ## 🧑🏻‍💻 ¿Quién soy?
-Soy un joven desarrollador Full Stack egresado del bootcamp Soy Henry, donde he adquirido habilidades sólidas en desarrollo web que van desde el diseño creativo de interfaces hasta la implementación eficiente del lado del servidor y la gestión de bases de datos.
-
-Esta etapa de formación ha generado un entorno de aprendizaje intensivo y colaborativo, con el cual estoy comprometido y entusiasmado con el aprendizaje continuo de nuevas herramientas para mejorar cada día mis habilidades profesionales. 
+Full Stack developer con sólidos conocimientos en JavaScript, HTML, SQL, Postgrest, Sequelize y Express. Cuento con experiencia desarrollando proyectos ágiles tanto en el Front-end como el Back-end con tecnologías como NodeJs, React, Redux, Express, creando interfaces de usuario interactivas y receptivas, endpoints RESTful, manejo de solicitudes del cliente de manera eficiente, además de la implementación de la lógica de negocio necesaria para respaldar la funcionalidad del frontend. He logrado fortalecer a lo largo de mi experiencia soft skills como el trabajo colaborativo, autogestión y flexibilidad que permite adaptarme a diferentes entornos de desarrollo. 
 
 ## 🥏 ¿Qué hago? 
 Actualmente finalizando mi formación académica estoy en busca de una oportunidad laboral que permita fortalecer mis habilidades adquiridas y con ello aportar de manera significativa a aquellos proyectos encaminados a la excelencia
