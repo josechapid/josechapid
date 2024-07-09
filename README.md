@@ -6,9 +6,9 @@
 Full Stack developer con sólidos conocimientos en JavaScript, HTML, SQL, Postgrest, Sequelize y Express. Cuento con experiencia desarrollando proyectos ágiles tanto en el Front-end como el Back-end con tecnologías como NodeJs, React, Redux, Express, creando interfaces de usuario interactivas y receptivas, endpoints RESTful, manejo de solicitudes del cliente de manera eficiente, además de la implementación de la lógica de negocio necesaria para respaldar la funcionalidad del frontend. He logrado fortalecer a lo largo de mi experiencia soft skills como el trabajo colaborativo, autogestión y flexibilidad que permite adaptarme a diferentes entornos de desarrollo. 
 
 ## 🥏 ¿Qué hago? 
-Actualmente finalizando mi formación académica estoy en busca de una oportunidad laboral que permita fortalecer mis habilidades adquiridas y con ello aportar de manera significativa a aquellos proyectos encaminados a la excelencia
+Actualmente estoy en busca de una oportunidad laboral que permita fortalecer mis habilidades adquiridas y con ello aportar de manera significativa a aquellos proyectos encaminados a la excelencia
 
-Comprometido con mi formación  estoy realizando cursos avanzados en la plataforma de Platzi, donde me especializo en tecnologías emergentes y metodologías ágiles. Mi compromiso con el aprendizaje continuo me impulsa a explorar y adoptar las mejores prácticas en el desarrollo de software.
+Comprometido con mi formación  estoy realizando cursos avanzados en la plataforma de Platzi y Udemy, donde me especializo en tecnologías emergentes y metodologías ágiles. Mi compromiso con el aprendizaje continuo me impulsa a explorar y adoptar las mejores prácticas en el desarrollo de software.
 
 Estoy emocionado por aplicar mis habilidades en proyectos desafiantes y dinámicos. Si buscas un colaborador entusiasta y dedicado para tu equipo de desarrollo, ¡contáctame! Estoy listo para construir soluciones innovadoras y de alto impacto.
 
@@ -37,6 +37,7 @@ Claro que sí, finalmente comparto contigo mi pasión por el fútbol ⚽ , el to
 
 ## Proyectos 
 - Ecommerce de Comidas rápidas (“DeliVeloz”) lo puedes visitar aqui [Deliveloz](https://deliveloz.netlify.app/)
+- Aplicación movil encaminada a la prevención de violencia de género ("Renacer Juntas") en desarrollo puedes ver los avances aquí (https://youtu.be/qceQSv3Xlio)
 
 ## 🌐 Redes Sociales
 - [LinkedIn](https://www.linkedin.com/in/jose-luis-chapid-3600bb296/)
