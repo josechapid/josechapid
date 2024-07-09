@@ -48,7 +48,7 @@ Claro que sí, finalmente comparto contigo mi pasión por el fútbol ⚽ , el to
 - +57 3187229494
 - luischapid03@gmail.com
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=josechapid&" alt="josechapid" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=josechapid&show_icons=true&locale=en" alt="josechapid" /></p>
 
 <p align="center">
     <!--- stats (start) -->
